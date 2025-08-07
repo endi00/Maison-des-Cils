@@ -1,0 +1,17 @@
+body{
+    background-image: url(treatments.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 370px;
+     background-color: #faf9f6;
+}
+.button{
+    color: black;
+    background-color: rgb(141, 110, 115);
+    border: 1px;
+}
+.button:hover{
+    background-color: rgb(209, 164, 171);
+    cursor: pointer;
+
+}
